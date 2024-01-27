@@ -1,0 +1,12 @@
+{
+    "artists": [
+      { "id": 1, "name": "CNCO", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe61627c00d64dcb4de8001d2" },
+      { "id": 2, "name": "AnaVitória", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616d0000b27389de16b800bd88301aa9120f" },
+      { "id": 3, "name": "Tini", "genre": "Reggaeton", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebd1ee0c41d3c79e916b910696" },
+      { "id": 4, "name": "Paramore", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" },
+      { "id": 5, "name": "Ana Castela", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb26abde7ba3cfdfb8c1900baf" },
+      { "id": 6, "name": "RBD", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab6761610000517492ba7f7441f4e5a08847f659" },
+      { "id": 7, "name": "Thiaguinho", "genre": "Pagode", "urlImg": "https://i.scdn.co/image/ab676161000051745bc75cc714e5596f738521de" }
+    ]
+  }
+  
